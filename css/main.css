@@ -6,7 +6,7 @@ body {
 #header {
     /* propiedad que permite alterar la altura */
     height: 100vh;
-    background-image: url("../img/og-matches.webp");
+    background-image: url("../img/ratonnn1.jpg");
     background-position-x: center;
     background-size: cover;
 }
@@ -36,7 +36,7 @@ iframe {
     height: 400px;
 }
 
-#Spoilers {
+#SUPERLIGHT1 {
     font-family: 'Dancing Script', cursive;
 }
 
@@ -46,14 +46,14 @@ iframe {
 
 a {
     text-decoration: none;
-    color: red;
+    color: black;
 }
 
 #footer {
     text-align: center;
     background-color: black;
-    color: gray;
-    padding: 12px;
+    color: skyblue;
+    padding: 10px;
 }
 
 .flex {
